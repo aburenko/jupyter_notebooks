@@ -1,2 +1,3 @@
-# chess_analysis
-gathering of projects for chess
+# jupyter notebooks
+gatherings for chess and kaggle
+
